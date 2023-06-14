@@ -1,0 +1,15 @@
+{
+  "fields": ["country", "city", "times", "longitude", "latitude"],
+  "rows": [
+    {
+      "country": "中国",
+      "city": "广西北海市",
+      "times": "1",
+      "date": "",
+      "imgs": ["./home/beihai.jpg"],
+      "remark": "fishing",
+      "longitude": "109.132287",
+      "latitude": "21.450901"
+    }
+  ]
+}
