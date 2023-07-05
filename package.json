@@ -16,9 +16,9 @@
   ],
   "author": {
     "name": "yezi",
-    "url": "http://yezi.com"
+    "url": "http://isanote.com"
   },
-  "homepage": "http://map.yezi.com",
+  "homepage": "http://map.isanote.com",
   "license": "Apache-2.0",
   "devDependencies": {
     "copy-webpack-plugin": "^4.0.1",

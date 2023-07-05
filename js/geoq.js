@@ -27,7 +27,7 @@ var geoq = {
     var e = L.control.attribution();
     e.addAttribution('那些我去过的城市');
     e.addAttribution(
-      '<a href="http://yezi.com" target="_blank">@yezi</a>',
+      '<a href="http://isanote.com" target="_blank">@yezi</a>',
     );
     e.addTo(this.map);
     window.travelMap = this.map;
