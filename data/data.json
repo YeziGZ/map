@@ -1,14 +1,34 @@
 {
-  "fields": ["country", "city", "times", "longitude", "latitude"],
+  "fields": [
+    "country",
+    "city",
+    "times",
+    "longitude",
+    "latitude"
+  ],
   "rows": [
     {
       "country": "中国",
       "city": "广西北海市",
       "times": "1",
       "date": "",
-      "imgs": ["./home/beihai.jpg"],
+      "imgs": [
+        "./home/beihai.jpg"
+      ],
       "remark": "fishing",
       "longitude": "109.132287",
+      "latitude": "21.450901"
+    },
+    {
+      "country": "中国",
+      "city": "lijiangshi",
+      "times": "1",
+      "date": "",
+      "imgs": [
+        "./yunnan/beihai.jpg"
+      ],
+      "remark": "qu li jiang wan",
+      "longitude": "108.132287",
       "latitude": "21.450901"
     }
   ]
