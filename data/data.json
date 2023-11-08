@@ -21,15 +21,15 @@
     },
     {
       "country": "中国",
-      "city": "lijiangshi",
-      "times": "1",
-      "date": "",
+      "city": "武夷山",
+      "times": "2",
+      "date": "20231105",
       "imgs": [
-        "./yunnan/beihai.jpg"
+        "./wuyishan/wuyishan.jpg，wuyishan01.jpg，wuyishan02.jpg"
       ],
-      "remark": "qu li jiang wan",
-      "longitude": "108.132287",
-      "latitude": "21.450901"
+      "remark": "2023大武夷超级山径赛-云游诗人，踏歌而行",
+      "longitude": "118.011543",
+      "latitude": "27.748135"
     }
   ]
 }
